@@ -1,1 +1,1 @@
-# BakalarskaPrace
+Artificial Intelligence for Playing Go
